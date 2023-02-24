@@ -41,8 +41,6 @@ public class MainActivity extends PHYSIsBLEActivity {
         setContentView(R.layout.activity_main);
 
         init();
-
-        snvSetup.setSerialNumber("20C38F8E85AA");
     }
 
     @Override
